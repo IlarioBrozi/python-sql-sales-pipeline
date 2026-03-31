@@ -2,6 +2,7 @@
 # Author: Ilario Brozi
 # Description: End-to-end data pipeline for sales analysis import sqlite3
 
+import sqlite3
 import pandas as pd
 import matplotlib.pyplot as plt
 
