@@ -14,6 +14,7 @@ This project demonstrates how to:
   - Matplotlib
 
 **Pipeline Steps**
+
   **1.Data Extraction**
     - Connect SQLite to database
     - Query sales data using SQL
