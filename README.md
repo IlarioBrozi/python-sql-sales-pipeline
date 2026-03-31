@@ -16,26 +16,37 @@ This project demonstrates how to:
 **Pipeline Steps**
 
   **1.Data Extraction**
+  
     - Connect SQLite to database
+    
     - Query sales data using SQL
 
   **2.Data Cleaning**
+  
     - Remove duplicates
+    
     - Handles missing values 
 
   **3.Feature Engeneering**
+  
     - Calculate discounted sales
+    
     - Categorizes sales (low/medium/high)
 
   **4.Data Analysis**
+  
     - Aggregate total sales per customer
 
   **5.Output**
+  
     - Export results to csv
+    
     - Generate bar chart visualization
 
 **Output Example**
+
   - sales_summary.csv -> aggregated data
+    
   - sales_by_customer.png -> visualization
 
 **Key Skills Demonstrated**
